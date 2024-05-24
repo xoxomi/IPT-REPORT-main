@@ -1,6 +1,6 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
-//Patricia Nicole Balgoa IT3R4
+//Patricia Nicole Balgoa - IT3R4 
 // db
 import db from './_db.js';
 
